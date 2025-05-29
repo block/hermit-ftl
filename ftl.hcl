@@ -126,7 +126,8 @@ version "0.39.0" "0.41.1" "0.42.0" "0.43.5" "0.46.1" "0.47.0" "0.53.0" "0.53.3"
         "0.494.5" "0.494.6" "0.494.7" "0.494.8" "0.494.9" "0.495.0" "0.496.0" "0.496.1"
         "0.496.2" "0.496.3" "0.496.4" "0.497.0" "0.497.1" "0.498.0" "0.498.1" "0.499.0"
         "0.500.0" "0.500.1" "0.500.2" "0.500.3" "0.500.4" "0.500.5" "0.500.6" "0.500.7"
-        "0.500.8" "0.501.0" "0.502.0" "0.502.1" "0.503.0" "0.503.1" "0.503.2" "0.504.0" {
+        "0.500.8" "0.501.0" "0.502.0" "0.502.1" "0.503.0" "0.503.1" "0.503.2" "0.504.0"
+        "0.504.1" {
   auto-version {
     github-release = "block/ftl"
   }
@@ -4111,4 +4112,8 @@ sha256sums = {
   "https://github.com/block/ftl/releases/download/v0.504.0/ftl-0.504.0.darwin-arm64.tar.gz": "88388271a2485d1b3f7e5d7725a46553ac3ed1b20f1def7012cf2a8952a18a52",
   "https://github.com/block/ftl/releases/download/v0.504.0/ftl-0.504.0.linux-amd64.tar.gz": "901384c2013547a02505e8b8d3ab193643e6e00b108b36fbf012e8559e81d60d",
   "https://github.com/block/ftl/releases/download/v0.504.0/ftl-0.504.0.linux-arm64.tar.gz": "12225e4d409efd5fce200c3a49099825dacc6931b80bed18e837364e4f83aa27",
+  "https://github.com/block/ftl/releases/download/v0.504.1/ftl-0.504.1.darwin-amd64.tar.gz": "0613a0d7fda13a8a2276e759d616854e137f17c949ff5e1da25be0c9d5f3b0e6",
+  "https://github.com/block/ftl/releases/download/v0.504.1/ftl-0.504.1.linux-arm64.tar.gz": "e72a84607ce7960f577490eebdf8c9fd1fa0666b981b44fa3019072dcbbe4d81",
+  "https://github.com/block/ftl/releases/download/v0.504.1/ftl-0.504.1.linux-amd64.tar.gz": "0c7d39f187690f5e9aa54f61b1eeb45a7a6024898f86f2eb6d3266f774ae1b8b",
+  "https://github.com/block/ftl/releases/download/v0.504.1/ftl-0.504.1.darwin-arm64.tar.gz": "a6abf07357cfb80a85ca4e62751ac4d79648896fc07604a2db8d374ff0ae7aee",
 }
